@@ -10,26 +10,9 @@ Since I've worked with several different tools, I will group them in three categ
 
 These are the things I feel confident working with due to my experience with them.
 
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .container {
-          display: flex;
-          width: 100%;
-          height: 300px;
-          background-color: black;
-          color: white;
-        }
-      </style>
-
-      <div class="container">
-        <h1>Hi there, my name is Nikola 👋</h1>
-      </div>
-    </div>
-
-  </foreignObject>
-</svg>
+<div style="width: 100%;">
+  <img src="test.svg" style="width: 100%;" alt="Click to see the source">
+</div>
 
 [<img alt="Python" align="left"  height="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />](https://www.python.org/)
 [<img alt="C" align="left"  height="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />](https://www.learn-c.org/)
