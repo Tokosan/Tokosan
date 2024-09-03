@@ -1,0 +1,28 @@
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          display: flex;
+          width: 100%;
+          height: 300px;
+          background-color: black;
+          color: white;
+        }
+      </style>
+
+      <div class="container">
+        <img href="https://www.python.org/" alt="Python" align="left"  height="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+        <img href="https://www.learn-c.org/" alt="C" align="left"  height="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+        <img href="https://cplusplus.com/" alt="C++" align="left"  height="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+        <img href="https://debian.org" alt="Debian" align="left"  height="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />
+        <img href="https://git-scm.com/" alt="Git" align="left"  height="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+        <img href="https://www.latex-project.org/" alt="LaTeX" align="left"  height="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
+        <img href="https://www.linux.org/" alt="Linux" align="left"  height="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+        <img href="https://www.ssh.com/" alt="SSH" align="left"  height="30px" style="padding: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg" />
+        <img href="https://code.visualstudio.com/" alt="VSCode" align="left"  height="30px" style="padding: 5px" src="vscode.svg" />
+      </div>
+    </div>
+
+  </foreignObject>
+</svg>
