@@ -12,24 +12,21 @@ These are the things I feel confident working with due to my experience with the
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
+<div>
 <style>
-.icon {
-  width: 30px;
-  padding: 5px;
-  vertical-align: -0.15em;
-  fill: currentColor;
-  overflow: hidden;
-}
-
+    .icon {
+        background-color: #f0f0f0;
+        width: 30px;
+        padding: 5px;
+    }
 </style>
 
 [<img alt="Python" align="left"  class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />](https://www.python.org/)
 [<img alt="C" align="left"  class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />](https://www.learn-c.org/)
 [<img alt="C++" align="left"  class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />](https://cplusplus.com/)
 [<img alt="Debian" align="left"  class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />](https://debian.org)
-[<img alt="Git" align="left"  class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />]()
-[<img alt="LaTeX" align="left"  class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />]()
-[<img alt="VSCode" align="left"  class="icon" src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" />]()
+[<img alt="Git" align="left"  class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />](https://git-scm.com/)
+[<img alt="LaTeX" align="left"  class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />](https://www.latex-project.org/)
 <br/>
 
 ## Learning
@@ -78,6 +75,8 @@ Buenas
 [<img alt="Unity" align="left"  class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />]()
 [<img alt="Unreal" align="left"  class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" />]()
 [<img alt="Vim" align="left"  class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />]()
+
+</div>
 
 <br/>
 <br/>
