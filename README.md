@@ -11,7 +11,17 @@ Since I've worked with several different tools, I will group them in three categ
 These are the things I feel confident working with due to my experience with them.
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<link rel="stylesheet" type='text/css' href="./styles.css" />
+
+<style>
+.icon {
+  width: 30px;
+  padding: 5px;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+}
+
+</style>
 
 [<img alt="Python" align="left"  class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />](https://www.python.org/)
 [<img alt="C" align="left"  class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />](https://www.learn-c.org/)
