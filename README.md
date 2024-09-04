@@ -131,9 +131,11 @@ If you happend to stumble upon this page and you know if any of these projects a
 <summary><h1>✉️ Contact</h1></summary>
 
 Mail: [camilo.araya.l@ug.uchile.cl](mailto:camilo.araya.l@ug.uchile.cl)
+
 LinkedIn: [Camilo Araya](https://www.linkedin.com/in/tokosan/)
+
 Telegram: [@TokosanD](https://t.me/TokosanD)
+
 WhatsApp: [+569 3017 7591](https://wa.me/56930177591)
 
 </details>
-```
