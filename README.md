@@ -11,10 +11,10 @@ Since I've worked with several different tools, I will group them in three categ
 These are the things I feel confident working with due to my experience with them.
 
 <a href="https://www.python.org/" style="text-decoration: none;">
-    <img alt="Python" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img alt="Python" align="center" height="30px" style="margin: 3px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </a>
 <a href="https://www.learn-c.org/" style="text-decoration: none;">
-    <img alt="C" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+    <img alt="C" align="center" height="30px" style="margin: 3px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 </a>
 <a href="https://cplusplus.com/">
     <img alt="C++" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
