@@ -14,11 +14,11 @@ I'm interested in a few different things, and currently I couldn't pick one as m
 
 ---
 
-## <ins>Techonlogies and tools 🛠️</ins>
+## Techonlogies and tools 🛠️
 
 Since I've worked with several different tools, I will group them in three categories.
 
-### 😃 Main toolchain
+### <ins>Main toolchain</ins>
 
 These are the things I feel confident working with due to my experience with them.
 
@@ -36,7 +36,7 @@ These are the things I feel confident working with due to my experience with the
 <a href="https://www.latex-project.org/"><img alt="LaTeX" align="center" height="30px" style="padding: 4px; margin: 2px; background-color: white; border-radius: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" /></a>
 <a href="https://www.ssh.com/"><img alt="SSH" align="center" height="30px" style="padding: 4px; margin: 2px; background-color: white; border-radius: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg" /></a>
 
-### 🌱 Learning
+### <ins>Learning</ins>
 
 <p>
 I'm currently learning how to use these tools correctly
@@ -50,7 +50,7 @@ I'm currently learning how to use these tools correctly
 <a href="https://react.dev/"><img alt="React" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
 <a href="https://getbootstrap.com/"><img alt="Bootstrap" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /></a>
 
-### 📜 Worked with
+### <ins>Worked with</ins>
 
 <p>
 And last but not least, these are the things I've used at some point and have a basic-intermediate understanding of how they work
@@ -77,7 +77,7 @@ And last but not least, these are the things I've used at some point and have a 
 <a href="https://www.mysql.com/"><img alt="MySQL" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /></a>
 <a href="https://godotengine.org/"><img alt="Godot" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" /></a>
 
-### 🔭 Special mentions: want to learn
+### <ins>Special mentions: want to learn</ins>
 
 These are just some technologies I would like to learn sometime.
 
@@ -92,7 +92,7 @@ These are just some technologies I would like to learn sometime.
 <a href="https://unity.com/"><img alt="Unity" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" /></a>
 <a href="https://www.unrealengine.com/"><img alt="Unreal" align="center" height="30px" style="padding: 4px; margin: 2px; background-color: grey; border-radius: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" /></a>
 
-## 🏗️ Projects!
+## <ins>Projects!</ins>
 
 As of today, I have several ideas that I want to work on to learn new things. I will list them below so I can keep track of them. My goal is to make these projects open-source and leave the repos here so other people can learn from them too.
 
