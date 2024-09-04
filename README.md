@@ -40,8 +40,6 @@ These are the things I feel confident working with due to my experience with the
 <br/>
 <br/>
 
----
-
 <details>
 <summary><h3>👨‍💻 Learning</h3></summary>
 
@@ -69,12 +67,10 @@ I'm currently learning how to use these tools correctly
 </a>
 <br/>
 <br/>
-
 </details>
 
----
-
-### Worked with
+<details>
+    <summary><h3>👨‍💻 Worked with</h3></summary>
 
 And last but not least, these are the things I've used at some point and have a basic-intermediate understanding of how they work
 
@@ -138,23 +134,50 @@ And last but not least, these are the things I've used at some point and have a 
 <a href="https://www.vim.org/">
   <img alt="Vim" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
 </a>
+<br/>
+<br/>
 
-## Special mentions: want to learn
+</details>
 
+<details>
+<summary><h3>🔭 Special mentions: want to learn</h3></summary>
 These are just some technologies I would like to learn sometime.
 
-[<img alt="ArchLinux" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />]()
-[<img alt="Kotlin" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />]()
-[<img alt="Lua" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />]()
-[<img alt="PyTorch" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />]()
-[<img alt="Ruby" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />]()
-[<img alt="Rust" align="left"  height="30px" style="padding: 5px; margin: 2px; background-color: #F74C00; border-radius: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />]()
-[<img alt="Scala" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" />]()
-[<img alt="Swift" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />]()
-[<img alt="Unity" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />]()
-[<img alt="Unreal" align="left"  height="30px" style="padding: 5px; margin: 2px; background-color: grey; border-radius: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" />]()
+<a href="https://archlinux.org/">
+  <img alt="ArchLinux" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
+</a>
+<a href="https://kotlinlang.org/">
+  <img alt="Kotlin" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+</a>
+<a href="https://www.lua.org/">
+  <img alt="Lua" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
+</a>
+<a href="https://pytorch.org/">
+  <img alt="PyTorch" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
+</a>
+<a href="https://www.ruby-lang.org/">
+  <img alt="Ruby" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
+</a>
+<a href="https://www.rust-lang.org/">
+  <img alt="Rust" align="left" height="30px" style="padding: 5px; margin: 2px; background-color: #F74C00; border-radius: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+</a>
+<a href="https://www.scala-lang.org/">
+  <img alt="Scala" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" />
+</a>
+<a href="https://developer.apple.com/swift/">
+  <img alt="Swift" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
+</a>
+<a href="https://unity.com/">
+  <img alt="Unity" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+</a>
+<a href="https://www.unrealengine.com/">
+  <img alt="Unreal" align="left" height="30px" style="padding: 5px; margin: 2px; background-color: grey; border-radius: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" />
+</a>
+
 <br/>
 <br/>
+
+</details>
 
 ---
 
@@ -163,7 +186,7 @@ These are just some technologies I would like to learn sometime.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
