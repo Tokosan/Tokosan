@@ -19,9 +19,12 @@ These are the things I feel confident working with due to my experience with the
 <a href="https://code.visualstudio.com/"><img alt="VSCode" align="center" height="30px" style="padding: 4px; margin: 2px" src="icons/vscode.svg" /></a>
 <a href="https://www.latex-project.org/"><img alt="LaTeX" align="center" height="30px" style="padding: 4px; margin: 2px; background-color: white; border-radius: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" /></a>
 <a href="https://www.ssh.com/"><img alt="SSH" align="center" height="30px" style="padding: 4px; margin: 2px; background-color: white; border-radius: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg" /></a>
+<a href="https://www.gnu.org/software/bash/" style="text-decoration: none;"><img align="center" alt="Bash" width="30px" height="30px" style="padding: 4px; margin: 2px; padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" /></a>
+<a href="https://www.microsoft.com/windows" style="text-decoration: none;"><img align="center" alt="Windows" width="30px" height="30px" style="padding: 4px; margin: 2px; padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" /></a>
+<a href="https://www.apple.com/" style="text-decoration: none;"><img align="center" alt="Apple" width="30px" height="30px" style="padding: 4px; margin: 2px; padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" /></a>
 
-<details>
-<summary><h3>👨‍💻 Learning</h3></summary>
+### 👨‍💻 Learning
+
 <p>
 I'm currently learning how to use these tools correctly
 </p>
@@ -34,10 +37,8 @@ I'm currently learning how to use these tools correctly
 <a href="https://react.dev/"><img alt="React" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
 <a href="https://www.typescriptlang.org/"><img alt="Typescript" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a>
 
-</details>
+### 👨‍💻 Worked with
 
-<details>
-<summary><h3>👨‍💻 Worked with</h3></summary>
 <p>
 And last but not least, these are the things I've used at some point and have a basic-intermediate understanding of how they work
 </p>
@@ -63,10 +64,8 @@ And last but not least, these are the things I've used at some point and have a 
 <a href="https://ubuntu.com/"><img alt="Ubuntu" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" /></a>
 <a href="https://www.vim.org/"><img alt="Vim" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" /></a>
 
-</details>
+### 🔭 Special mentions: want to learn
 
-<details>
-<summary><h3>🔭 Special mentions: want to learn</h3></summary>
 These are just some technologies I would like to learn sometime.
 
 <a href="https://archlinux.org/"><img alt="ArchLinux" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /></a>
@@ -79,8 +78,6 @@ These are just some technologies I would like to learn sometime.
 <a href="https://developer.apple.com/swift/"><img alt="Swift" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" /></a>
 <a href="https://unity.com/"><img alt="Unity" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" /></a>
 <a href="https://www.unrealengine.com/"><img alt="Unreal" align="center" height="30px" style="padding: 4px; margin: 2px; background-color: grey; border-radius: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" /></a>
-
-</details>
 
 <!--
 **Tokosan/Tokosan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
