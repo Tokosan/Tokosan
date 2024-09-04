@@ -12,7 +12,9 @@ I'm interested in a few different things, and currently I couldn't pick one as m
 4. **Cybersecurity**: I've taken a few courses on cybersecurity and I'm interested in learning more about it.
 5. **Web development**: I've never really liked webdev, but recently I've been learning about it and I'm changing my mind. I think that maybe webdev is a good way to have a glance of native app development.
 
-## 🛠️ Techonlogies and tools
+---
+
+## <ins>Techonlogies and tools 🛠️</ins>
 
 Since I've worked with several different tools, I will group them in three categories.
 
