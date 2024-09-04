@@ -1,6 +1,16 @@
-# Tokosan
+# Bio
 
 I'm a software engineer (currently working on my undergraduate thesis). During my college years I mainly used git (and GitHub) for my courses, storing all my homework and projects here so I could access them regularely from my different devices. But now I want to start building real projects to share my ideas and tools, and contribute to other people's projects to learn how things are done in the real world haha.
+
+# Interests
+
+I'm interested in a few different things, and currently I couldn't pick one as my favorite, so here are them:
+
+1. **Low-level programming**: I've worked with C and C++ for a while, and also with circuit design tools. I really enjoy working with -and understanding- the things that make our computers work.
+2. **IoT**: I've worked with Arduino and ESP-IDF, and I want to make some cool projects with them. I like the idea of having a smart home and sustainable energy to power it.
+3. **Gamedev**: I've always wanted to make games, and I've tried a few times, but I never finished a project.
+4. **Cybersecurity**: I've taken a few courses on cybersecurity and I'm interested in learning more about it.
+5. **Web development**: I've never really liked webdev, but recently I've been learning about it and I'm changing my mind. I think that maybe webdev is a good way to have a glance of native app development.
 
 ## 🛠️ Techonlogies and tools
 
@@ -104,4 +114,26 @@ As of today, I have several ideas that I want to work on to learn new things. I 
 - Be able to run commands and show the output
 - Have secrets :D
 
+4. **Minecraft, Skyrim, or some Souls game mod**: I think that making mods might be a good way to get into Gamedev, so I want to start there. I don't have any specific ideas for the mods and I don't know how to even start haha, but I will do it eventually!
+
+5. **NFC android app**: I want to make an app that can read and write NFC tags. I used a few but they don't let me do what I want to do. The features I want are:
+
+- Read and write NFC tags
+- Save the data in the tags
+- `main feature` Use the tags to trigger real actions in the phone (like opening an app, changing settings, making a call, etc.)
+- `optional` Use the tags to trigger actions on my PC (like changing the volume, opening a program, etc.)
+
 When I start these projects only the repo link will be here.
+
+If you happend to stumble upon this page and you know if any of these projects already exist, please let me know! I would love to see how they are done and learn from them. My contact info is down below.
+
+<details>
+<summary><h1>✉️ Contact</h1></summary>
+
+Mail: [camilo.araya.l@ug.uchile.cl](mailto:camilo.araya.l@ug.uchile.cl)
+LinkedIn: [Camilo Araya](https://www.linkedin.com/in/tokosan/)
+Telegram: [@TokosanD](https://t.me/TokosanD)
+WhatsApp: [+569 3017 7591](https://wa.me/56930177591)
+
+</details>
+```
