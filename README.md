@@ -6,7 +6,7 @@ I'm a software engineer (currently working on my undergraduate thesis). During m
 
 Since I've worked with several different tools, I will group them in three categories.
 
-### Main toolchain
+### 😃 Main toolchain
 
 These are the things I feel confident working with due to my experience with them.
 
@@ -23,7 +23,7 @@ These are the things I feel confident working with due to my experience with the
 <a href="https://www.microsoft.com/windows" style="text-decoration: none;"><img align="center" alt="Windows" width="30px" height="30px" style="padding: 4px; margin: 2px; padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" /></a>
 <a href="https://www.apple.com/" style="text-decoration: none;"><img align="center" alt="Apple" width="30px" height="30px" style="padding: 4px; margin: 2px; padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" /></a>
 
-### 👨‍💻 Learning
+### 🌱 Learning
 
 <p>
 I'm currently learning how to use these tools correctly
@@ -37,7 +37,7 @@ I'm currently learning how to use these tools correctly
 <a href="https://react.dev/"><img alt="React" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
 <a href="https://www.typescriptlang.org/"><img alt="Typescript" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a>
 
-### 👨‍💻 Worked with
+### 📜 Worked with
 
 <p>
 And last but not least, these are the things I've used at some point and have a basic-intermediate understanding of how they work
@@ -79,7 +79,7 @@ These are just some technologies I would like to learn sometime.
 <a href="https://unity.com/"><img alt="Unity" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" /></a>
 <a href="https://www.unrealengine.com/"><img alt="Unreal" align="center" height="30px" style="padding: 4px; margin: 2px; background-color: grey; border-radius: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" /></a>
 
-## Projects!
+## 🏗️ Projects!
 
 As of today, I have several ideas that I want to work on to learn new things. I will list them below so I can keep track of them. My goal is to make these projects open-source and leave the repos here so other people can learn from them too.
 
@@ -87,8 +87,8 @@ As of today, I have several ideas that I want to work on to learn new things. I 
 
 - Open and view PDF files
 - Open and view images
-- Be able to remove, add, and rearrange pages in a PDF file (just like Preview in macOS) `main feature`
-- Be able to annotate PDF files `optional`
+- `main feature` Be able to remove, add, and rearrange pages in a PDF file (just like Preview in macOS)
+- `optional` Be able to annotate PDF files
 
 2. **cd-tree**: I want to merge the `tree` program (Linux) with the `cd` command, making something similar to [Midnight Commander](https://midnight-commander.org/) or [Nerdtree](https://github.com/preservim/nerdtree), but oriented to the only and simple task of changing of directory when using a CLI. The program should be able to:
 
@@ -103,17 +103,4 @@ As of today, I have several ideas that I want to work on to learn new things. I 
 - Be able to run commands and show the output
 - Have secrets :D
 
-<!--
-**Tokosan/Tokosan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--  I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I start these projects only the repo link will be here.
