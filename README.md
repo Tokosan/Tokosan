@@ -97,6 +97,12 @@ As of today, I have several ideas that I want to work on to learn new things. I 
 - Be able to change the current directory by pressing `Enter` on a directory
 - Be able to hide/show directory trees using the arrow keys (like one of the view options that Finder has in macOS)
 
+3. **CLI Web Page**: A webpage that works and feels like a terminal, similar to what GitHub does when you sign up for a new account, or what [FKCodes](https://fkcodes.com/) did. The page should be able to:
+
+- Show a terminal-like interface
+- Be able to run commands and show the output
+- Have secrets :D
+
 <!--
 **Tokosan/Tokosan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
