@@ -88,17 +88,17 @@ As of today, I have several ideas that I want to work on to learn new things. I 
 
 - Open and view PDF files
 - Open and view images
-- `main feature` Be able to remove, add, and rearrange pages in a PDF file (just like Preview in macOS)
-- `optional` Be able to annotate PDF files
+- `main feature` Remove, add, and rearrange pages in a PDF file (just like Preview in macOS)
+- `optional` Annotate PDF files
 
 2. **cd-tree**: I want to merge the `tree` program (Linux) with the `cd` command, making something similar to [Midnight Commander](https://midnight-commander.org/) or [Nerdtree](https://github.com/preservim/nerdtree), but oriented to the only and simple task of changing of directory when using a CLI. The program should be able to:
 
 - Show the current directory and its subdirectories in a tree-like structure
-- Be able to navigate the tree using the arrow keys
-- Be able to change the current directory by pressing `Enter` on a directory
-- Be able to hide/show directory trees using the arrow keys (like one of the view options that Finder has in macOS)
+- Navigate the tree using the arrow keys
+- Change the current directory by pressing `Enter` on a directory
+- Hide/show directory trees using the arrow keys (like one of the view options that Finder has in macOS)
 
-3. **CLI Web Page**: A webpage that works and feels like a terminal, similar to what GitHub does when you sign up for a new account, or what [FKCodes](https://fkcodes.com/) did. The page should be able to:
+3. **CLI Web Page**: A webpage that works and feels like a terminal, similar to what GitHub does when you sign up for a new account, or what [FKCodes](https://fkcodes.com/) did. The page should:
 
 - Show a terminal-like interface
 - Be able to run commands and show the output
