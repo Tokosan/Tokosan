@@ -79,6 +79,24 @@ These are just some technologies I would like to learn sometime.
 <a href="https://unity.com/"><img alt="Unity" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" /></a>
 <a href="https://www.unrealengine.com/"><img alt="Unreal" align="center" height="30px" style="padding: 4px; margin: 2px; background-color: grey; border-radius: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" /></a>
 
+## Projects!
+
+As of today, I have several ideas that I want to work on to learn new things. I will list them below so I can keep track of them. My goal is to make these projects open-source and leave the repos here so other people can learn from them too.
+
+1. **Preview for Windows**: I want to make a simple tool like Apple's Preview app, but for Windows (or Linux). I want the app to be able to:
+
+- Open and view PDF files
+- Open and view images
+- Be able to remove, add, and rearrange pages in a PDF file (just like Preview in macOS) `main feature`
+- Be able to annotate PDF files `optional`
+
+2. **cd-tree**: I want to merge the `tree` program (Linux) with the `cd` command, making something similar to [Midnight Commander](https://midnight-commander.org/) or [Nerdtree](https://github.com/preservim/nerdtree), but oriented to the only and simple task of changing of directory when using a CLI. The program should be able to:
+
+- Show the current directory and its subdirectories in a tree-like structure
+- Be able to navigate the tree using the arrow keys
+- Be able to change the current directory by pressing `Enter` on a directory
+- Be able to hide/show directory trees using the arrow keys (like one of the view options that Finder has in macOS)
+
 <!--
 **Tokosan/Tokosan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
