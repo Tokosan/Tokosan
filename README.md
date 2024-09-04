@@ -10,32 +10,28 @@ Since I've worked with several different tools, I will group them in three categ
 
 These are the things I feel confident working with due to my experience with them.
 
-<a href="https://www.python.org/" style="text-decoration: none;">
-<img alt="Python" align="center" height="30px" style="margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-</a>
-<a href="https://www.learn-c.org/" style="text-decoration: none;">
-<img alt="C" align="center" height="30px" style="margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-</a>
+<a href="https://www.python.org/" style="text-decoration: none;"><img alt="Python" align="center" height="30px" style="margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>
+<a href="https://www.learn-c.org/" style="text-decoration: none;"><img alt="C" align="center" height="30px" style="margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /></a>
 <a href="https://cplusplus.com/">
-    <img alt="C++" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img alt="C++" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 </a>
 <a href="https://debian.org">
-    <img alt="Debian" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />
+<img alt="Debian" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />
 </a>
 <a href="https://git-scm.com/">
-    <img alt="Git" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img alt="Git" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </a>
 <a href="https://www.linux.org/">
-    <img alt="Linux" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img alt="Linux" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </a>
 <a href="https://code.visualstudio.com/">
-    <img alt="VSCode" align="center" height="30px" style="padding: 4px; margin: 2px" src="icons/vscode.svg" />
+<img alt="VSCode" align="center" height="30px" style="padding: 4px; margin: 2px" src="icons/vscode.svg" />
 </a>
 <a href="https://www.latex-project.org/">
-    <img alt="LaTeX" align="center" height="30px" style="padding: 4px; margin: 2px; background-color: white; border-radius: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
+<img alt="LaTeX" align="center" height="30px" style="padding: 4px; margin: 2px; background-color: white; border-radius: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
 </a>
 <a href="https://www.ssh.com/">
-    <img alt="SSH" align="center" height="30px" style="padding: 4px; margin: 2px; background-color: white; border-radius: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg" />
+<img alt="SSH" align="center" height="30px" style="padding: 4px; margin: 2px; background-color: white; border-radius: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg" />
 </a>
 
 <details>
