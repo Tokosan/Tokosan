@@ -2,11 +2,9 @@
 
 I'm a software engineer (currently working on my undergraduate thesis). During my college years I mainly used git (and GitHub) for my courses, storing all my homework and projects here so I could access them regularely from my different devices. But now I want to start building real projects to share my ideas and tools, and contribute to other people's projects to learn how things are done in the real world haha.
 
-## Techonlogies and tools
+## 🛠️ Techonlogies and tools
 
 Since I've worked with several different tools, I will group them in three categories.
-
----
 
 ### Main toolchain
 
@@ -51,12 +49,24 @@ I'm currently learning how to use these tools correctly
 
 <img align="left" alt="CSS" width="30px"  height="30px" style="padding: 5px; margin: 2px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 
-[<img alt="Docker" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />](https://www.docker.com/)
-[<img alt="Bootstrap" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />]()
-[<img alt="HTML5" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />]()
-[<img alt="Powershell" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />]()
-[<img alt="React" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />]()
-[<img alt="Typescript" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />]()
+<a href="https://www.docker.com/">
+  <img alt="Docker" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+</a>
+<a href="https://getbootstrap.com/">
+  <img alt="Bootstrap" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
+  <img alt="HTML5" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+</a>
+<a href="https://learn.microsoft.com/en-us/powershell/">
+  <img alt="Powershell" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
+</a>
+<a href="https://react.dev/">
+  <img alt="React" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+</a>
+<a href="https://www.typescriptlang.org/">
+  <img alt="Typescript" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+</a>
 <br/>
 <br/>
 
@@ -68,27 +78,66 @@ I'm currently learning how to use these tools correctly
 
 And last but not least, these are the things I've used at some point and have a basic-intermediate understanding of how they work
 
-[<img alt="JavaScript" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img alt="Java" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />](https://www.java.com/)
-[<img alt="Jupyter" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />](https://jupyter.org/)
-[<img alt="Arduino" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />]()
-[<img alt="C#" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />](https://dotnet.microsoft.com/en-us/languages/csharp)
-[<img alt="CloudFlare" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" />]()
-[<img alt="Django" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />]()
-[<img alt="Flask" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />]()
-[<img alt="Godot" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />]()
-[<img alt="Haskell" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" />]()
-[<img alt="Hugo" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hugo/hugo-original.svg" />]()
-[<img alt="IntelliJ" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />]()
-[<img alt="Laravel" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />]()
-[<img alt="MariaDB" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />]()
-[<img alt="MySQL" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />]()
-[<img alt="PHP" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />]()
-[<img alt="R" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />]()
-[<img alt="Raspberry Pi" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />]()
-[<img alt="Ubuntu" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />]()
-[<img alt="Vim" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />]()
-<br/>
+<a href="https://www.javascript.com/">
+  <img alt="JavaScript" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+</a>
+<a href="https://www.oracle.com/java/">
+  <img alt="Java" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+</a>
+<a href="https://jupyter.org/">
+  <img alt="Jupyter" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+</a>
+<a href="https://www.arduino.cc/">
+  <img alt="Arduino" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+</a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+  <img alt="C#" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+</a>
+<a href="https://www.cloudflare.com/">
+  <img alt="CloudFlare" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" />
+</a>
+<a href="https://www.djangoproject.com/">
+  <img alt="Django" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+</a>
+<a href="https://flask.palletsprojects.com/">
+  <img alt="Flask" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
+</a>
+<a href="https://godotengine.org/">
+  <img alt="Godot" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
+</a>
+<a href="https://www.haskell.org/">
+  <img alt="Haskell" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" />
+</a>
+<a href="https://gohugo.io/">
+  <img alt="Hugo" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hugo/hugo-original.svg" />
+</a>
+<a href="https://www.jetbrains.com/idea/">
+  <img alt="IntelliJ" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+</a>
+<a href="https://laravel.com/">
+  <img alt="Laravel" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+</a>
+<a href="https://mariadb.org/">
+  <img alt="MariaDB" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
+</a>
+<a href="https://www.mysql.com/">
+  <img alt="MySQL" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+</a>
+<a href="https://www.php.net/">
+  <img alt="PHP" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+</a>
+<a href="https://www.r-project.org/">
+  <img alt="R" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+</a>
+<a href="https://www.raspberrypi.org/">
+  <img alt="Raspberry Pi" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
+</a>
+<a href="https://ubuntu.com/">
+  <img alt="Ubuntu" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
+</a>
+<a href="https://www.vim.org/">
+  <img alt="Vim" align="left" height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
+</a>
 
 ## Special mentions: want to learn
 
