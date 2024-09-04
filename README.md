@@ -4,7 +4,9 @@ I'm a software engineer (currently working on my undergraduate thesis). During m
 
 ## Techonlogies and tools
 
-Since I've worked with several different tools, I will group them in three categories:
+Since I've worked with several different tools, I will group them in three categories.
+
+---
 
 ### Main toolchain
 
@@ -38,10 +40,16 @@ These are the things I feel confident working with due to my experience with the
     <img alt="SSH" align="left" height="30px" style="padding: 5px; margin: 2px; background-color: white; border-radius: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg" />
 </a>
 <br/>
+<br/>
 
-### Learning
+---
+
+<details>
+<summary><h3>👨‍💻 Learning</h3></summary>
 
 I'm currently learning how to use these tools correctly
+
+<img align="left" alt="CSS" width="30px"  height="30px" style="padding: 5px; margin: 2px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 
 [<img alt="Docker" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />](https://www.docker.com/)
 [<img alt="Bootstrap" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />]()
@@ -50,6 +58,11 @@ I'm currently learning how to use these tools correctly
 [<img alt="React" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />]()
 [<img alt="Typescript" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />]()
 <br/>
+<br/>
+
+</details>
+
+---
 
 ### Worked with
 
@@ -91,6 +104,7 @@ These are just some technologies I would like to learn sometime.
 [<img alt="Swift" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />]()
 [<img alt="Unity" align="left"  height="30px" style="padding: 5px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />]()
 [<img alt="Unreal" align="left"  height="30px" style="padding: 5px; margin: 2px; background-color: grey; border-radius: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" />]()
+<br/>
 <br/>
 
 ---
