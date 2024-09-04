@@ -13,17 +13,13 @@ These are the things I feel confident working with due to my experience with the
 <a href="https://www.python.org/" style="text-decoration: none;"><img alt="Python" align="center" height="30px" style="margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>
 <a href="https://www.learn-c.org/" style="text-decoration: none;"><img alt="C" align="center" height="30px" style="margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /></a>
 <a href="https://cplusplus.com/"><img alt="C++" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /></a>
-
 <a href="https://code.visualstudio.com/"><img alt="VSCode" align="center" height="30px" style="padding: 4px; margin: 2px" src="icons/vscode.svg" /></a>
-
 <a href="https://www.microsoft.com/windows" style="text-decoration: none;"><img align="center" alt="Windows" width="30px" height="30px" style="padding: 4px; margin: 2px; padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" /></a>
 <a href="https://www.linux.org/"><img alt="Linux" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></a>
 <a href="https://debian.org"><img alt="Debian" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" /></a>
 <a href="https://www.apple.com/" style="text-decoration: none;"><img align="center" alt="Apple" width="30px" height="30px" style="padding: 4px; margin: 2px; padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" /></a>
-
 <a href="https://www.gnu.org/software/bash/" style="text-decoration: none;"><img align="center" alt="Bash" width="30px" height="30px" style="padding: 4px; margin: 2px; padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" /></a>
 <a href="https://learn.microsoft.com/en-us/powershell/"><img alt="Powershell" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" /></a>
-
 <a href="https://git-scm.com/"><img alt="Git" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></a>
 <a href="https://www.latex-project.org/"><img alt="LaTeX" align="center" height="30px" style="padding: 4px; margin: 2px; background-color: white; border-radius: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" /></a>
 <a href="https://www.ssh.com/"><img alt="SSH" align="center" height="30px" style="padding: 4px; margin: 2px; background-color: white; border-radius: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg" /></a>
@@ -35,7 +31,6 @@ I'm currently learning how to use these tools correctly
 </p>
 
 <a href="https://www.docker.com/"><img alt="Docker" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></a>
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img alt="HTML5" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></a>
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" style="text-decoration: none;"><img align="center" alt="CSS" width="30px" height="30px" style="padding: 4px; margin: 2px; padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></a>
 <a href="https://www.typescriptlang.org/"><img alt="Typescript" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a>
@@ -50,29 +45,30 @@ And last but not least, these are the things I've used at some point and have a 
 </p>
 
 <a href="https://www.oracle.com/java/"><img alt="Java" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /></a>
+<a href="https://www.haskell.org/"><img alt="Haskell" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" /></a>
+<a href="https://www.php.net/"><img alt="PHP" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /></a>
+<a href="https://www.r-project.org/"><img alt="R" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" /></a>
 <a href="https://jupyter.org/"><img alt="Jupyter" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" /></a>
 <a href="https://www.arduino.cc/"><img alt="Arduino" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" /></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="C#" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /></a>
+<a href="https://idf.espressif.com/"><img alt="ESP-IDF" align="center" height="30px" style="padding: 4px; margin: 2px" src="icons/espressif.svg" /></a>
+<a href="https://www.raspberrypi.org/"><img alt="Raspberry Pi" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" /></a>
+<a href="https://ubuntu.com/"><img alt="Ubuntu" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" /></a>
 <a href="https://www.cloudflare.com/"><img alt="CloudFlare" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" /></a>
+<a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" /></a>
+<a href="https://www.vim.org/"><img alt="Vim" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" /></a>
 <a href="https://www.djangoproject.com/"><img alt="Django" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" /></a>
 <a href="https://flask.palletsprojects.com/"><img alt="Flask" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" /></a>
-<a href="https://godotengine.org/"><img alt="Godot" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" /></a>
-<a href="https://www.haskell.org/"><img alt="Haskell" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" /></a>
 <a href="https://gohugo.io/"><img alt="Hugo" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hugo/hugo-original.svg" /></a>
-<a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" /></a>
 <a href="https://laravel.com/"><img alt="Laravel" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" /></a>
 <a href="https://mariadb.org/"><img alt="MariaDB" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" /></a>
 <a href="https://www.mysql.com/"><img alt="MySQL" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /></a>
-<a href="https://www.php.net/"><img alt="PHP" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /></a>
-<a href="https://www.r-project.org/"><img alt="R" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" /></a>
-<a href="https://www.raspberrypi.org/"><img alt="Raspberry Pi" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" /></a>
-<a href="https://ubuntu.com/"><img alt="Ubuntu" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" /></a>
-<a href="https://www.vim.org/"><img alt="Vim" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" /></a>
+<a href="https://godotengine.org/"><img alt="Godot" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" /></a>
 
 ### 🔭 Special mentions: want to learn
 
 These are just some technologies I would like to learn sometime.
 
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="C#" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /></a>
 <a href="https://archlinux.org/"><img alt="ArchLinux" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /></a>
 <a href="https://kotlinlang.org/"><img alt="Kotlin" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" /></a>
 <a href="https://www.lua.org/"><img alt="Lua" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" /></a>
