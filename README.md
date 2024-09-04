@@ -26,26 +26,14 @@ These are the things I feel confident working with due to my experience with the
 I'm currently learning how to use these tools correctly
 </p>
 
-<img align="center" alt="CSS" width="30px"  height="30px" style="padding: 4px; margin: 2px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" style="text-decoration: none;"><img align="center" alt="CSS" width="30px" height="30px" style="padding: 4px; margin: 2px; padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></a>
+<a href="https://www.docker.com/"><img alt="Docker" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></a>
+<a href="https://getbootstrap.com/"><img alt="Bootstrap" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img alt="HTML5" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></a>
+<a href="https://learn.microsoft.com/en-us/powershell/"><img alt="Powershell" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" /></a>
+<a href="https://react.dev/"><img alt="React" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
+<a href="https://www.typescriptlang.org/"><img alt="Typescript" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a>
 
-<a href="https://www.docker.com/">
-  <img alt="Docker" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-</a>
-<a href="https://getbootstrap.com/">
-  <img alt="Bootstrap" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
-  <img alt="HTML5" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-</a>
-<a href="https://learn.microsoft.com/en-us/powershell/">
-  <img alt="Powershell" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
-</a>
-<a href="https://react.dev/">
-  <img alt="React" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-</a>
-<a href="https://www.typescriptlang.org/">
-  <img alt="Typescript" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-</a>
 </details>
 
 <details>
