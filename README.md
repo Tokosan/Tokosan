@@ -49,6 +49,8 @@ I'm currently learning how to use these tools correctly
 <a href="https://www.javascript.com/"><img alt="JavaScript" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a>
 <a href="https://react.dev/"><img alt="React" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
 <a href="https://getbootstrap.com/"><img alt="Bootstrap" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /></a>
+<a href="https://neovim.io/"><img alt="Neovim" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"/></a>
+<a href="https://archlinux.org/"><img alt="ArchLinux" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /></a>
 
 ### <ins>Worked with</ins>
 
@@ -82,7 +84,6 @@ And last but not least, these are the things I've used at some point and have a 
 These are just some technologies I would like to learn sometime.
 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="C#" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /></a>
-<a href="https://archlinux.org/"><img alt="ArchLinux" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /></a>
 <a href="https://kotlinlang.org/"><img alt="Kotlin" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" /></a>
 <a href="https://www.lua.org/"><img alt="Lua" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" /></a>
 <a href="https://www.ruby-lang.org/"><img alt="Ruby" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" /></a>
