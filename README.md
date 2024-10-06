@@ -51,6 +51,8 @@ I'm currently learning how to use these tools correctly
 <a href="https://getbootstrap.com/"><img alt="Bootstrap" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /></a>
 <a href="https://neovim.io/"><img alt="Neovim" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"/></a>
 <a href="https://archlinux.org/"><img alt="ArchLinux" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /></a>
+<a href="https://dart.dev/"><img alt="Dart" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"/></a>
+<a href="https://flutter.dev"><img alt="Flutter" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/></a>
 
 ### <ins>Worked with</ins>
 
