@@ -135,7 +135,7 @@ If you happend to stumble upon this page and you know if any of these projects a
 
 <h1>✉️ Contact</h1>
 
-Mail: [camilo.araya.l@ug.uchile.cl](mailto:camilo.araya.l@ug.uchile.cl)
+Mail: [caraya@dcc.uchile.cl](mailto:caraya@dcc.uchile.cl)
 
 LinkedIn: [Camilo Araya](https://www.linkedin.com/in/tokosan/)
 
