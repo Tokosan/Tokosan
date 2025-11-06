@@ -132,8 +132,8 @@ When I start these projects only the repo link will be here.
 
 If you happend to stumble upon this page and you know if any of these projects already exist, please let me know! I would love to see how they are done and learn from them. My contact info is down below.
 
-<details>
-<summary><h1>✉️ Contact</h1></summary>
+
+<h1>✉️ Contact</h1>
 
 Mail: [camilo.araya.l@ug.uchile.cl](mailto:camilo.araya.l@ug.uchile.cl)
 
@@ -143,4 +143,3 @@ Telegram: [@TokosanD](https://t.me/TokosanD)
 
 WhatsApp: [+569 3180 1114](https://wa.me/56931801114)
 
-</details>
