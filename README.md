@@ -141,6 +141,6 @@ LinkedIn: [Camilo Araya](https://www.linkedin.com/in/tokosan/)
 
 Telegram: [@TokosanD](https://t.me/TokosanD)
 
-WhatsApp: [+569 3017 7591](https://wa.me/56930177591)
+WhatsApp: [+569 3180 1114](https://wa.me/56931801114)
 
 </details>
