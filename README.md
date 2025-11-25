@@ -1,6 +1,6 @@
 # Bio
 
-I'm a software engineer (currently working on my undergraduate thesis). During my college years I mainly used git (and GitHub) for my courses, storing all my homework and projects here so I could access them regularely from my different devices. But now I want to start building real projects to share my ideas and tools, and contribute to other people's projects to learn how things are done in the real world haha.
+I'm a software engineer. During my college years I mainly used git (and GitHub) for my courses, storing all my homework and projects here so I could access them regularely from all my devices. But now I want to start building real projects to share my ideas and tools, and contribute to other people's projects to learn how things are done in the real world haha.
 
 # Interests
 
