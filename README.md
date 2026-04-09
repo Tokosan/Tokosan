@@ -35,6 +35,9 @@ These are the things I feel confident working with due to my experience with the
 <a href="https://git-scm.com/"><img alt="Git" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></a>
 <a href="https://www.latex-project.org/"><img alt="LaTeX" align="center" height="30px" style="padding: 4px; margin: 2px; background-color: white; border-radius: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" /></a>
 <a href="https://www.ssh.com/"><img alt="SSH" align="center" height="30px" style="padding: 4px; margin: 2px; background-color: white; border-radius: 100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg" /></a>
+<a href="https://neovim.io/"><img alt="Neovim" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"/></a>
+<a href="https://www.docker.com/"><img alt="Docker" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></a>
+<a href="https://archlinux.org/"><img alt="ArchLinux" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /></a>
 
 ### <ins>Learning</ins>
 
@@ -42,17 +45,12 @@ These are the things I feel confident working with due to my experience with the
 I'm currently learning how to use these tools correctly
 </p>
 
-<a href="https://www.docker.com/"><img alt="Docker" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img alt="HTML5" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></a>
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" style="text-decoration: none;"><img align="center" alt="CSS" width="30px" height="30px" style="padding: 4px; margin: 2px; padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></a>
 <a href="https://www.typescriptlang.org/"><img alt="Typescript" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a>
 <a href="https://www.javascript.com/"><img alt="JavaScript" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a>
 <a href="https://react.dev/"><img alt="React" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
 <a href="https://getbootstrap.com/"><img alt="Bootstrap" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /></a>
-<a href="https://neovim.io/"><img alt="Neovim" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"/></a>
-<a href="https://archlinux.org/"><img alt="ArchLinux" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /></a>
-<a href="https://dart.dev/"><img alt="Dart" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"/></a>
-<a href="https://flutter.dev"><img alt="Flutter" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/></a>
 
 ### <ins>Worked with</ins>
 
@@ -80,6 +78,9 @@ And last but not least, these are the things I've used at some point and have a 
 <a href="https://mariadb.org/"><img alt="MariaDB" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" /></a>
 <a href="https://www.mysql.com/"><img alt="MySQL" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /></a>
 <a href="https://godotengine.org/"><img alt="Godot" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" /></a>
+<a href="https://dart.dev/"><img alt="Dart" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"/></a>
+<a href="https://flutter.dev"><img alt="Flutter" align="center" height="30px" style="padding: 4px; margin: 2px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/></a>
+
 
 ### <ins>Special mentions: want to learn</ins>
 
